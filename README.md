@@ -3,13 +3,16 @@
 # LTC Click Bot Telegram for *Linux* (no password required!)
 **SC : [Youtube](https://www.youtube.com/channel/UCklMnWz-oJPLnn2sIdBo8vQ)**
 
-saya cari ini sulit bro, dari dulu cuma dapet yg versi termux, gk work untuk linux, and finally saya menemukan sc ini di [Channel Ini](https://www.youtube.com/channel/UCklMnWz-oJPLnn2sIdBo8vQ), dan stelah saya coba, ini berhasil :]
+saya menemukan sc ini di [Channel Ini](https://www.youtube.com/channel/UCklMnWz-oJPLnn2sIdBo8vQ), dan stelah saya coba, ini berhasil :]
+
+## My Referral :
+- https://t.me/Litecoin_click_bot?start=KKsyx 
 # Cara Makenya?
 - git clone https://github.com/misqwin/ltc-click-bot
 
 - cd ltc-click-bot
 
-- python3 -m pip install -r requirements.txt (Rekomendasi Python3.7)
+- python3 -m pip install -r requirements.txt
 
 - python3 main.py +628****** (<< Nomermu)
 
